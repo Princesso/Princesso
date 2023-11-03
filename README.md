@@ -22,7 +22,7 @@ I am passionate about constantly learning, embracing growth, and becoming a bett
 I currently work as a DevRel Engineer at [Spectro Cloud](https://spectrocloud.com). At Spectro Cloud, we are building a full-stack Kubernetes management platform for teams.
 
 
--  👨‍💻 Some of the technologies I work with include Go, Linux, Shell Scripting, and Kubernetes
+-  👨‍💻 Some of the technologies I work with include Go, Linux, Shell Scripting, Cluster API, and Kubernetes
 - 💬 Ask me about Kubernetes, Javascript, Technical Writing, and Developer Advocacy
 - ⚡ Fun fact: I am strongly introverted and strongly extroverted, a strange combo 😆
 
