@@ -15,7 +15,7 @@
 
 <h3 align="center"> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Bube! </h3>
 
-I love to code, write, and educate.
+I love to code, document(write), and educate.
 
 I am passionate about constantly learning, embracing growth, and becoming a better version of myself.
 
