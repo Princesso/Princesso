@@ -30,7 +30,7 @@ I currently work as a DevRel Engineer at [Spectro Cloud](https://spectrocloud.co
 ### :fire: Most Used Languages
 
 Javascript, Go, Java, Typescript, Python React, Ruby on Rails, HTML, CSS
-#[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Princesso&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
