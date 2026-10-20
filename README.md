@@ -19,17 +19,17 @@ I love to code, document(write), and educate.
 
 I am passionate about constantly learning, embracing growth, and becoming a better version of myself.
 
-I currently work as a DevRel Engineer at [Spectro Cloud](https://spectrocloud.com). At Spectro Cloud, we are building a full-stack Kubernetes management platform for Software/Devops teams.
+I currently work as a Senior Full-Stack Engineer at [Cooksey Technology Group](https://cookseytechnologygroup.com/). At CTG, we build interactive video solutions for businesses worldwide.
 
 
--  👨‍💻 Some of the technologies I work with include Go, Linux, Shell Scripting, Cluster API, and Kubernetes
+- 👨‍💻 Some of the technologies I work with include Go, Linux, Shell Scripting, Cluster API, TypeScript, Python, Java, AI Agents and Kubernetes
 - 💬 Ask me about Kubernetes, Javascript, Technical Writing, and Developer Advocacy
 - ⚡ Fun fact: I am strongly introverted and strongly extroverted, a strange combo 😆
 
 
 ### :fire: Most Used Languages
 
-Javascript, Go, Java, Typescript, Python React, Ruby on Rails, HTML, CSS
+Javascript, Go, Java, Typescript, Python, React, Ruby on Rails, HTML, CSS
 
 
 
